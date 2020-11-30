@@ -1,0 +1,10 @@
+h1 {
+  color: blue;
+  font-size: 28pt;
+}
+body {
+  background-image: url("../images/Windows10.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}

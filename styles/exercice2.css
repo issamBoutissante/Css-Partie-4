@@ -1,0 +1,10 @@
+body {
+  background-position: center;
+  padding: 10%;
+  text-align: center;
+  color: white;
+  background-image: repeating-radial-gradient(red 10%, green 20%);
+}
+h1 {
+  font-size: 5vw;
+}

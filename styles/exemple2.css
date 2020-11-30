@@ -1,0 +1,9 @@
+h1 {
+  color: blue;
+  font-size: 28pt;
+}
+body {
+  background-image: url("../images/degrage.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
